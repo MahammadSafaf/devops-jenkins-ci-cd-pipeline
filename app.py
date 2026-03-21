@@ -1,1 +1,1 @@
-print("Auto trigger working 🚀")
+print("Webhook success 🚀")
