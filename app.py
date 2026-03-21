@@ -1,1 +1,1 @@
-print("Webhook success 🚀")
+print("Webhook success")
